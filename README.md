@@ -8,10 +8,10 @@ It demonstrates my ability to perform **end-to-end data analytics**, including d
 ---
 
 ## 👨‍💻 About Me
-Hi, I'm **Jagadeeswarreddy M**, a passionate **Data Analyst Intern** skilled in transforming raw data into meaningful business insights.
+Hi, I'm **J Giridhar**, a passionate **Data Analyst Intern** skilled in transforming raw data into meaningful business insights.
 
 📍 Andhra Pradesh, India  
-📧 mekalajagadeeswarreddy@gmail.com  
+📧 giridhargiri266@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/j-giridhar 
 💻 GitHub: https://github.com/Giridharj_2004
 
