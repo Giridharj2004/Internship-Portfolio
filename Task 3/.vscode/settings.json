@@ -1,0 +1,28 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "task 3 ",
+            "database": "\"C:\\data analytics task 3\\global_store.db\""
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "task 3",
+            "database": "\"C:\\data analytics task 3\\global_store.db\""
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "task 3",
+            "database": "${workspaceFolder:data analytics task 3}/global_store.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "task3",
+            "database": "${workspaceFolder:data analytics task 3}/global_store.db"
+        }
+    ]
+}

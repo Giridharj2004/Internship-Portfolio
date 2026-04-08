@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "super",
+            "database": "${workspaceFolder:data analytics task 2}/global_store.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
